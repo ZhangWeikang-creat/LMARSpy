@@ -2,9 +2,8 @@
 
 lmarspy is a nonhydrostatic atmospheric model dynamical core that features:
 
-* Maintain conservation of mass and energy.
-* Increase the number of CFL by vertical implicit solver.
 * Apply monotonicity limiter in discontinuous regions.
+* Increase the number of CFL by vertical implicit solver.
 * Allow high-performance computing in Python on GPUs.
 
 ## How to Run?

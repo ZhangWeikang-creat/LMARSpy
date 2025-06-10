@@ -19,7 +19,7 @@ setup(
     developer = "Zhang Weikang",
     maintainer = "Zhang Weikang",
     developer_email = "weikang-zhang@foxmail.com",
-    #url='https://github.com/yourusername/my_library',
+    url='https://github.com/ZhangWeikang-creat/LMARSpy.git',
     classifiers=[
         'Programming Language :: Python :: 3',
     ],
