@@ -1,0 +1,50 @@
+Brotli @ file:///croot/brotli-split_1714483155106/work
+certifi @ file:///croot/certifi_1725551672989/work/certifi
+cftime @ file:///home/conda/feedstock_root/build_artifacts/cftime_1718096442229/work
+charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
+colorama @ file:///work/perseverance-python-buildout/croot/colorama_1698847155966/work
+contourpy==1.3.0
+cycler==0.12.1
+execnet==2.1.1
+filelock @ file:///work/perseverance-python-buildout/croot/filelock_1701733993137/work
+fonttools==4.53.1
+idna @ file:///croot/idna_1714398848350/work
+iniconfig @ file:///home/linux1/recipes/ci/iniconfig_1610983019677/work
+Jinja2 @ file:///croot/jinja2_1716993405101/work
+kiwisolver==1.4.7
+llvmlite==0.43.0
+-e git+http://223.113.240.51:65025/crg/lmarspy.git@0281f5c91bdbfafe22f5cc8e573dd374f98672a8#egg=lmarspy
+MarkupSafe @ file:///work/perseverance-python-buildout/croot/markupsafe_1707342994941/work
+matplotlib==3.9.2
+mpi4py @ file:///home/conda/feedstock_root/build_artifacts/mpi4py_1716628219734/work
+mpmath @ file:///work/perseverance-python-buildout/croot/mpmath_1698864994882/work
+netCDF4 @ file:///home/conda/feedstock_root/build_artifacts/netcdf4_1718724090298/work
+networkx @ file:///croot/networkx_1717597493534/work
+numba==0.60.0
+numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1721965843284/work/dist/numpy-2.0.1-cp312-cp312-linux_x86_64.whl#sha256=b3cb2bda31e40936e7f0b717f147bdd266b83bd7360b6cdefbb5bdbfba44e04c
+packaging @ file:///croot/packaging_1720101850331/work
+pandas==2.2.2
+pillow @ file:///home/conda/feedstock_root/build_artifacts/pillow_1719903548521/work
+pluggy @ file:///work/perseverance-python-buildout/croot/pluggy_1698805497733/work
+psutil @ file:///work/perseverance-python-buildout/croot/psutil_1698863411559/work
+pyparsing==3.1.4
+PySocks @ file:///work/perseverance-python-buildout/croot/pysocks_1698845478203/work
+pytest @ file:///croot/pytest_1717793244625/work
+pytest-xdist==3.6.1
+python-dateutil==2.9.0.post0
+pytz==2024.1
+PyYAML @ file:///work/perseverance-python-buildout/croot/pyyaml_1698849903511/work
+requests @ file:///croot/requests_1721410876868/work
+scipy==1.14.1
+setuptools==72.1.0
+six==1.16.0
+sympy @ file:///croot/sympy_1701397643339/work
+torch==2.4.0
+torchaudio==2.4.0
+torchvision==0.19.0
+triton==3.0.0
+typing_extensions @ file:///croot/typing_extensions_1715268824938/work
+tzdata==2024.1
+urllib3 @ file:///croot/urllib3_1718912636303/work
+wheel==0.43.0
+xarray==2024.7.0
